@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClr.GUIScriptGenerator", "SqlCLR.GUIScriptGenerator\SqlClr.GUIScriptGenerator.csproj", "{6BE6FA20-E106-4059-9EFB-1DD67855FAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClr.UnitTests", "SqlCLR.UnitTests\SqlClr.UnitTests.csproj", "{761F44D1-C71F-4C0C-8B5D-371EA4EF3C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClr.Core", "SqlClr.Core\SqlClr.Core.csproj", "{7396E66D-D2D6-416B-AEB9-1D226C79E46A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClr.Regex", "SqlClr.Regex\SqlClr.Regex.csproj", "{E30EFE78-439C-4EF1-89FF-FBBDEB1BFE77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClr.ScriptGenerator", "SqlClr.ScriptGenerator\SqlClr.ScriptGenerator.csproj", "{3C7E83A5-7863-41D6-A2F4-8A64C6F4DB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE6FA20-E106-4059-9EFB-1DD67855FAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE6FA20-E106-4059-9EFB-1DD67855FAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE6FA20-E106-4059-9EFB-1DD67855FAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE6FA20-E106-4059-9EFB-1DD67855FAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761F44D1-C71F-4C0C-8B5D-371EA4EF3C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761F44D1-C71F-4C0C-8B5D-371EA4EF3C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761F44D1-C71F-4C0C-8B5D-371EA4EF3C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761F44D1-C71F-4C0C-8B5D-371EA4EF3C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7396E66D-D2D6-416B-AEB9-1D226C79E46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7396E66D-D2D6-416B-AEB9-1D226C79E46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7396E66D-D2D6-416B-AEB9-1D226C79E46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7396E66D-D2D6-416B-AEB9-1D226C79E46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30EFE78-439C-4EF1-89FF-FBBDEB1BFE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30EFE78-439C-4EF1-89FF-FBBDEB1BFE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30EFE78-439C-4EF1-89FF-FBBDEB1BFE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30EFE78-439C-4EF1-89FF-FBBDEB1BFE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7E83A5-7863-41D6-A2F4-8A64C6F4DB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7E83A5-7863-41D6-A2F4-8A64C6F4DB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7E83A5-7863-41D6-A2F4-8A64C6F4DB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7E83A5-7863-41D6-A2F4-8A64C6F4DB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
